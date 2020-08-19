@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on machine learning, deep learning, data mining, Statistical Analysis, Image Processing, Data Manipulation, ETL with Python, Data Visualization, Web scrapping, Data Mining 
+
+- 🌱 I’m currently learning big data and analysis, Big data and analysis, Natural language processing, Deep learning
+
 <!--
 **GulsahYagci34/GulsahYagci34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
