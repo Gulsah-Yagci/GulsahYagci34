@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on machine learning, deep learning, data mining, Statistical Analysis, Image Processing, Data Manipulation, ETL with Python, Data Visualization, Web scrapping, Data Mining 
 
-- 🌱 I’m currently learning big data and analysis, Big data and analysis, Natural language processing, Deep learning
+- 🌱 I’m currently learning big data and analysis, natural language processing, deep learning
 
 <!--
 **GulsahYagci34/GulsahYagci34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
